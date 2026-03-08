@@ -2,9 +2,7 @@
   <img src="whoami-banner.svg" alt="whoami banner" width="100%"/>
 </div>
 
-# whoami — Penetration Testing Suite
-
-**v1.3** | Multi-platform | All-in-one Pentest Tool
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Termux%20|%20Linux%20|%20Windows%20|%20macOS-green?style=for-the-badge)](https://github.com/ruyynn)
@@ -106,25 +104,11 @@ pip install -r requirements.txt
 python3 whoami.py
 ```
 
-Setelah dijalankan, pilih platform kamu dan navigasi menggunakan menu interaktif.
+## 📸 Preview
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    MAIN MENU - whoami v1.3                     ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                ║
-║  [1] 📡 Information Gathering                                  ║
-║  [2] 🌐 Network Scanning                                       ║
-║  [3] 🔍 Vulnerability Scanner                                  ║  
-║  [4] 🌍 Web Application Testing                               ║
-║  [5] 🔑 Password Attacks                                      ║
-║  [6] 📶 Wireless Attacks                                      ║
-║  [7] 🎯 Post Exploitation                                     ║
-║  [8] 📊 Reporting                                             ║
-║  [9] 🔧 Maintenance                                           ║
-║  [0] ❌ Exit                                                  ║
-╚════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <img src="assets/preview.png" alt="whoami main menu preview" width="80%"/>
+</div>
 
 ---
 
@@ -167,7 +151,7 @@ Ada bug atau pertanyaan? Hubungi saya lewat:
 | Platform | Link |
 |----------|------|
 | 🐙 GitHub Issues | [Buka Issue](https://github.com/ruyynn/whoami/issues) |
-| 📧 Gmail | [Gmail](ruyynn25@gmail.com) |
+| 📧 Gmail | [Gmail](mailto:ruyynn25@gmail.com) |
 | 📘 Facebook | [Facebook](https://facebook.com) |
 
 ---
